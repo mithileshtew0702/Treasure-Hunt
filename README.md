@@ -1,8 +1,8 @@
 # COMP2069 Algorithms, Data Structures and Efficiency
-## Coursework: Designing a Small Game with Algorithms and Data Structures
 
-## Game Title: Treasure Hunt
-## Created by: Mithilesh TEW (20509703)
+## Coursework: Designing a Small Game with Algorithms and Data Structures
+Game Title: Treasure Hunt
+Created by: Mithilesh TEW (20509703)
 
 ## Game Description:
 Treasure Hunt is a simple grid-based game. The player moves around a 20x20 map to find 3 hidden treasures.
