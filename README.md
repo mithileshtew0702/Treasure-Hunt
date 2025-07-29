@@ -2,7 +2,6 @@
 
 ## Coursework: Designing a Small Game with Algorithms and Data Structures
 Game Title: Treasure Hunt
-
 Created by: Mithilesh TEW (20509703)
 
 ## Game Description:
