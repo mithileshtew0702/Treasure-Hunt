@@ -1,7 +1,8 @@
-# COMP2069 Algorithms, Data Structures and Efficiency
+# Treasure Hunt
 
 ## Coursework: Designing a Small Game with Algorithms and Data Structures
 Game Title: Treasure Hunt
+Module: COMP2069 Algorithms, Data Structures and Efficiency
 Created by: Mithilesh TEW (20509703)
 
 ## Game Description:
